@@ -1,5 +1,5 @@
 PhilAgate
 =========
 
-Try It Out
-Jut me trying out github
+Trying It Out
+Just me trying out github
